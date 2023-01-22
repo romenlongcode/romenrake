@@ -5,7 +5,7 @@ Database Developer/ Engineer and Data Engineering aspirant.
 -----------------------------------------------------------
 
 * 🌍  I'm based in my hometown Imphal , India currently.
-* ✉️  You can contact me at [romenkumar09@gmal.com](mailto:romenkumar09@gmal.com)
+* ✉️  You can contact me at [romenkumar09@gmal.com](mailto:romenkumar09@gmail.com)
 * 🧠  I'm learning Hadoop framework .
 * 🤝  I'm open to collaborating on interesting projects and open source contributions. Please do contact my email for collabs .
 * ⚡  I'm Intensely energetic zap, very curious brain - asking the right questions and rapidly innovative 🤌🏾
