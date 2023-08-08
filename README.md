@@ -1,12 +1,12 @@
 Hi  Khurumjari ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moirangthem Romenkumar Singh
 ====================================================================================================================================================
 
-Database Developer/ Engineer and Data Engineering aspirant.
+Machine Learning Engineer
 -----------------------------------------------------------
 
 * 🌍  I'm based in my hometown Imphal , India currently.
 * ✉️  You can contact me at [romenkumar09@gmal.com](mailto:romenkumar09@gmail.com)
-* 🧠  I'm learning Hadoop framework .
+* 🧠  I'm learning Hyperledger Fabric tools for blockchain development.
 * 🤝  I'm open to collaborating on interesting projects and open source contributions. Please do contact my email for collabs .
 * ⚡  I'm Intensely energetic zap, very curious brain - asking the right questions and rapidly innovative 🤌🏾
 
