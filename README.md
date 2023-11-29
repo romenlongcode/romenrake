@@ -1,65 +1,50 @@
-### Hi  Khurumjari ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Moirangthem Romenkumar Singh
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### DevOps Engineer | Imphal, India
+Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moirangthem Romenkumar Singh
+====================================================================================================================================================
 
-- **Email:** [romenkumar09@gmail.com](mailto:romenkumar09@gmail.com)
-- **Twitter:** [@romen_rake](https://www.twitter.com/romen_rake)
-- **GitHub:** [romenrake](https://www.github.com/romenrake)
-- **LinkedIn:** [romenrake](https://www.linkedin.com/in/romenrake)
+DevOps Engineer
+-----------------------------------------------------------
 
----
+* 🌍  I'm based in my hometown Imphal , India currently.
+* ✉️  You can contact me at [romenkumar09@gmal.com](mailto:romenkumar09@gmail.com)
+* 🧠  I'm learning Hyperledger Fabric tools for blockchain development.
+* 🤝  I'm open to collaborating on interesting projects and open source contributions. Please do contact my email for collabs .
+* ⚡  I'm Intensely energetic zap, very curious brain - asking the right questions and rapidly innovative 🤌🏾
 
-#### Professional Summary
+<a href="https://www.twitter.com/romen_rake" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/romen_rake?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/romenrake" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/romenrake?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-I am a passionate DevOps Engineer based in Imphal, India, with a strong background in machine learning and a keen interest in blockchain development. I thrive in collaborative environments, contributing to interesting projects, and embracing open source initiatives.
+### Skills
 
----
 
-#### Skills
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
-**Programming Languages:**
-- Java
-- Python
 
-**Database Management:**
-- MySQL
+### Socials
 
-**DevOps Tools:**
-- Docker
-- Kubernetes
-- Jenkins
-- Ansible
-- Terraform
+<p align="left"> <a href="https://discord.com/users/romenrake" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/romenrake" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/romenrake" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/romenrake" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/romen_rake" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-**Blockchain Development:**
-- Hyperledger Fabric
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-#### Socials
+<a href="http://www.github.com/romenrake"><img src="https://github-readme-stats.vercel.app/api?username=romenrake&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="romenrake's GitHub stats" /></a>
 
-- [Discord](https://discord.com/users/romenrake)
-- [GitHub](https://www.github.com/romenrake)
-- [Instagram](http://www.instagram.com/romenrake)
-- [LinkedIn](https://www.linkedin.com/in/romenrake)
-- [Twitter](https://www.twitter.com/romen_rake)
+<a href="http://www.github.com/romenrake"><img src="https://github-readme-streak-stats.herokuapp.com/?user=romenrake&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
----
+<a href="http://www.github.com/romenrake"><img src="https://activity-graph.herokuapp.com/graph?username=romenrake&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-#### GitHub Stats
+<a href="https://github.com/romenrake" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romenrake&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romenrake&show_icons=true&hide=&count_private=true&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=1c1917&hide_border=true&show_icons=true)
+<b>Top Repositories</b>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romenrake&stroke=ffffff&background=1c1917&ring=0366d6&fire=0366d6&currStreakNum=ffffff&currStreakLabel=0366d6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=romenrake&bg_color=1c1917&color=ffffff&line=0366d6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romenrake&langs_count=10&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
-
----
-
-#### Top Repositories
-
-![Database-SQL](https://github-readme-stats.vercel.app/api/pin/?username=romenrake&repo=Database-SQL&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=1c1917&hide_border=true&locale=en)
-
-![Big-Data-and-Hadoop-with-Romen](https://github-readme-stats.vercel.app/api/pin/?username=romenrake&repo=Big-Data-and-Hadoop-with-Romen&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=1c1917&hide_border=true&locale=en)
+<div width="100%" align="center"><a href="https://github.com/romenrake/Database-SQL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=romenrake&repo=Database-SQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/romenrake/Big-Data-and-Hadoop-with-Romen" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=romenrake&repo=Big-Data-and-Hadoop-with-Romen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<!---
+romenrake/romenrake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
